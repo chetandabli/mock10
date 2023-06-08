@@ -1,0 +1,15 @@
+#signup{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    background-color: antiquewhite;
+    padding: 25px;
+    margin: auto;
+    margin-top: 50px;
+}
+#signup>input{
+    margin: 10px 0;
+}
+#submit{
+    cursor: pointer;
+}
